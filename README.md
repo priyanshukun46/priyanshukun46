@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshukun46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshukun46" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/priyanshukun46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="priyanshukun46" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshukun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshukun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyanshu-kumar-058750277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-kumar-058750277" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27620769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27620769" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanshu_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_kun" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshukun46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshukun46" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanshukun46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshukun46" height="30" width="40" /></a>
 </p>
