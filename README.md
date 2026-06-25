@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
 # 💫 About Me:
-🔭 I’m a 2nd year B.Tech student at LPU<br>🤝 I’m looking for help with Ruby<br>🌱 I’m currently learning rails and react<br>💬 Ask me about rails Ann ruby<br>⚡ Fun fact 
+🔭 I’m a 2nd year B.Tech student at LPU<br>🤝 I’m looking for help with Ruby<br>🌱 I’m currently learning rails and react<br>💬 Ask me about rails And ruby<br>⚡ Fun fact : I love fedora iykyk:)
 
 
 ## 🌐 Socials:
